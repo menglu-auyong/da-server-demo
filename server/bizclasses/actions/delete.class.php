@@ -1,4 +1,5 @@
 <?php
 
 
-echo "delete action";
+echo "delete action.";
+echo "the delete.";

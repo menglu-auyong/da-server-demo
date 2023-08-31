@@ -1,4 +1,5 @@
 <?php
 
 
-echo "edit action";
+echo "edit action.";
+echo "the edit..";
