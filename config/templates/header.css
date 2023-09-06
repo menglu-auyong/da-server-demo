@@ -1,6 +1,9 @@
 body {
     background-color: lightblue;
 }
+table {
+    background-color: darkblue;
+}    
 
 h1 {
     color: navy;
